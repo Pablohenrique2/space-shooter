@@ -11,4 +11,4 @@ Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navega
 
 ## Confira o resultado clicando no Gif.
 
-<a href="https://pablohenrique2.github.io/Jogo-genius/" ><img src="https://thumbs.gfycat.com/SmallVillainousDavidstiger-size_restricted.gif" alt="Gif de desenho antigo"></a>
+<a href="https://pablohenrique2.github.io/space-shooter/" ><img src="https://thumbs.gfycat.com/SmallVillainousDavidstiger-size_restricted.gif" alt="Gif de desenho antigo"></a>
