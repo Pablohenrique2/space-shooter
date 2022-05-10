@@ -1,13 +1,18 @@
-# space-shooter
-Projeto produzido para um bootcamp em parceria com a Digital Innovation One.
+# Space-Shooter
 
-# Descrição do projeto
+Projeto produzido no intuito de obter grandes aprendizados sobre o desenvolvimento de game  , no bootcamp da  Digital Innovation One. 
 
-Neste projeto, desenvolvo um jogo-space-shooter utilizando HTML, CSS e Javascript.
+## Utilizando 
+
+- HTML
+- CSS
+- JAVASCRIPT
+
 
 ## Para rodar o projeto
 
-Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
+So baixar o projeto e basta apenas abrir o arquivo index.html em um navegador de preferência.
+
 
 ## Confira o resultado clicando no Gif.
 
