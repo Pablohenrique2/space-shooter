@@ -9,6 +9,12 @@ Projeto produzido no intuito de obter grandes aprendizados sobre o desenvolvimen
 - JAVASCRIPT
 
 
+## Comandos do jogo
+
+Movimento do pesonagem nas setas do teclado e o espaço atira no inimigo.
+
+
+
 ## Para rodar o projeto
 
 So baixar o projeto e basta apenas abrir o arquivo index.html em um navegador de preferência.
